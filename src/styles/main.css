@@ -44,3 +44,7 @@
 .menu-score h2:nth-child(2) {
     margin-top: 10px;
 }
+
+.panel {
+    cursor: url(https://img.icons8.com/ios-filled/50/define-location--v1.png), default;
+}
